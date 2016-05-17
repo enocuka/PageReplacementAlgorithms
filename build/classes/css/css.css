@@ -1,0 +1,51 @@
+.textFilter{
+    -fx-font-size:16px;
+    -fx-font-family:"Helvetica";
+}
+.pageFaults{
+    -fx-font-size:16px;
+    -fx-font-family:"Helvetica";
+    -fx-text-fill: white;
+    
+}
+.buttonGreen{
+    -fx-font-size:16px;
+    -fx-base:lightgreen;
+}
+.buttonBlue{
+    -fx-font-size:16px;
+    -fx-base:lightblue;
+}
+.buttonSequence{
+    -fx-font-size:14px;
+}
+.labelHeader{
+    -fx-border-color: grey;
+    -fx-border-width: 1;
+    -fx-font-size:16px;
+    -fx-alignment: center;
+    -fx-background-color:lightblue;
+}
+.labelBodyNew{
+    -fx-border-color: grey;
+    -fx-border-width: 1;
+    -fx-font-size:16px;
+    -fx-alignment: center;
+    -fx-background-color: lightgreen;
+}
+.labelBody{
+    -fx-border-color: grey;
+    -fx-border-width: 1;
+    -fx-font-size:16px;
+    -fx-alignment: center;
+}
+.flowPanebottem{
+    -fx-background-color:#404040;
+    
+}
+.paneBackgrond{
+    -fx-background-color:white;
+}
+.imagetooltip{
+    -fx-font-size:20px;
+}
